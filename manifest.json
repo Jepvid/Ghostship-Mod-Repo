@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "author": "Reppan",
     "description": "SMB2-style charge jump: crouch still for 3 seconds to charge, any jump done within 5 seconds will be boosted.",
-    "website": "https://github.com/Jepvid/GS-ChargeJump/",
+    "website": "https://github.com/Jepvid/Ghostship-Mod-Repo/tree/ChargeJump",
     "license": "MIT",
     "code_version": 1,
     "game_version": 4294967295,
