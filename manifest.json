@@ -1,10 +1,11 @@
 {
-    "name": "Demo Mod",
-    "main": "build.gen",
+    "name": "Charge Jump",
     "version": "1.0.0",
-    "website": "https://example.com",
-    "description": "A simple demo mod for testing purposes.",
-    "author": "Your Name",
+    "author": "Reppan",
+    "description": "SMB2-style charge jump: crouch still for 3 seconds to charge, any jump done within 5 seconds will be boosted.",
+    "website": "https://github.com/Jepvid/GS-ChargeJump/",
     "license": "MIT",
-    "code-version": 1
+    "code_version": 1,
+    "game_version": 4294967295,
+    "main": "build.gen"
 }
